@@ -82,6 +82,10 @@ npm run
 ```
 
 * make sure composer / npm kau up to date
+* dapat error. sebab cara macam ni sesuai untuk Laravel 7.
+* So, aku search tailwind. 
+
+* still tak 
 
 
-<mark>Marked textsdsadasasdafa</mark>
+
